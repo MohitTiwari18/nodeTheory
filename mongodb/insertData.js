@@ -12,5 +12,4 @@ const insertData = async () => {
     console.warn("data is inserted");
   }
 };
-
 insertData();
